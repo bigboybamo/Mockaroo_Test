@@ -1,0 +1,106 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Mockaroo_Test",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/ClubContronller": {
+      "get": {
+        "tags": [
+          "ClubContronller"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Club"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Club"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Club"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Club": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "club_name": {
+            "type": "string",
+            "nullable": true
+          },
+          "country_location": {
+            "type": "string",
+            "nullable": true
+          },
+          "stadium_capacity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "manager_name": {
+            "type": "string",
+            "nullable": true
+          },
+          "founded_year": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "league_affiliation": {
+            "type": "string",
+            "nullable": true
+          },
+          "captain_name": {
+            "type": "string",
+            "nullable": true
+          },
+          "jersey_color": {
+            "type": "string",
+            "nullable": true
+          },
+          "average_attendance": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "major_rival": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "ClubContronller"
+    }
+  ]
+}

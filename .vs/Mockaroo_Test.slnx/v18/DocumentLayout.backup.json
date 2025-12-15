@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oyetu\\source\\repos\\Mockaroo_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E26F38F-774E-05A2-A23D-B05024FDFFE5}|Mockaroo_Test\\Mockaroo_Test.csproj|c:\\users\\oyetu\\source\\repos\\mockaroo_test\\mockaroo_test\\controllers\\clubcontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E26F38F-774E-05A2-A23D-B05024FDFFE5}|Mockaroo_Test\\Mockaroo_Test.csproj|solutionrelative:mockaroo_test\\controllers\\clubcontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E26F38F-774E-05A2-A23D-B05024FDFFE5}|Mockaroo_Test\\Mockaroo_Test.csproj|c:\\users\\oyetu\\source\\repos\\mockaroo_test\\mockaroo_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E26F38F-774E-05A2-A23D-B05024FDFFE5}|Mockaroo_Test\\Mockaroo_Test.csproj|solutionrelative:mockaroo_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E26F38F-774E-05A2-A23D-B05024FDFFE5}|Mockaroo_Test\\Mockaroo_Test.csproj|c:\\users\\oyetu\\source\\repos\\mockaroo_test\\mockaroo_test\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E26F38F-774E-05A2-A23D-B05024FDFFE5}|Mockaroo_Test\\Mockaroo_Test.csproj|solutionrelative:mockaroo_test\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E26F38F-774E-05A2-A23D-B05024FDFFE5}|Mockaroo_Test\\Mockaroo_Test.csproj|c:\\users\\oyetu\\source\\repos\\mockaroo_test\\mockaroo_test\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E26F38F-774E-05A2-A23D-B05024FDFFE5}|Mockaroo_Test\\Mockaroo_Test.csproj|solutionrelative:mockaroo_test\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E26F38F-774E-05A2-A23D-B05024FDFFE5}|Mockaroo_Test\\Mockaroo_Test.csproj|c:\\users\\oyetu\\source\\repos\\mockaroo_test\\mockaroo_test\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E26F38F-774E-05A2-A23D-B05024FDFFE5}|Mockaroo_Test\\Mockaroo_Test.csproj|solutionrelative:mockaroo_test\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClubContronller.cs",
+              "DocumentMoniker": "C:\\Users\\oyetu\\source\\repos\\Mockaroo_Test\\Mockaroo_Test\\Controllers\\ClubContronller.cs",
+              "RelativeDocumentMoniker": "Mockaroo_Test\\Controllers\\ClubContronller.cs",
+              "ToolTip": "C:\\Users\\oyetu\\source\\repos\\Mockaroo_Test\\Mockaroo_Test\\Controllers\\ClubContronller.cs",
+              "RelativeToolTip": "Mockaroo_Test\\Controllers\\ClubContronller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:31:01.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oyetu\\source\\repos\\Mockaroo_Test\\Mockaroo_Test\\Program.cs",
+              "RelativeDocumentMoniker": "Mockaroo_Test\\Program.cs",
+              "ToolTip": "C:\\Users\\oyetu\\source\\repos\\Mockaroo_Test\\Mockaroo_Test\\Program.cs",
+              "RelativeToolTip": "Mockaroo_Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:12:40.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\oyetu\\source\\repos\\Mockaroo_Test\\Mockaroo_Test\\SeedData.cs",
+              "RelativeDocumentMoniker": "Mockaroo_Test\\SeedData.cs",
+              "ToolTip": "C:\\Users\\oyetu\\source\\repos\\Mockaroo_Test\\Mockaroo_Test\\SeedData.cs",
+              "RelativeToolTip": "Mockaroo_Test\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:07:45.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Users\\oyetu\\source\\repos\\Mockaroo_Test\\Mockaroo_Test\\Club.cs",
+              "RelativeDocumentMoniker": "Mockaroo_Test\\Club.cs",
+              "ToolTip": "C:\\Users\\oyetu\\source\\repos\\Mockaroo_Test\\Mockaroo_Test\\Club.cs",
+              "RelativeToolTip": "Mockaroo_Test\\Club.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T12:59:37.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\oyetu\\source\\repos\\Mockaroo_Test\\Mockaroo_Test\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Mockaroo_Test\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\oyetu\\source\\repos\\Mockaroo_Test\\Mockaroo_Test\\AppDbContext.cs",
+              "RelativeToolTip": "Mockaroo_Test\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T12:57:59.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

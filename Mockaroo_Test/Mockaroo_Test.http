@@ -1,0 +1,6 @@
+@Mockaroo_Test_HostAddress = http://localhost:5147
+
+GET {{Mockaroo_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
